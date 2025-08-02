@@ -7,3 +7,6 @@ https://cv-pag.netlify.app/
 
 Or download the repo :
 https://github.com/quinguaia2024/Roadmap-chalenge.git
+
+Acess this chalenge into:
+https://roadmap.sh/projects/single-page-cv
